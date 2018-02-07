@@ -12,7 +12,7 @@ pip install steem
 pip install tqdm
 ```
 
-### config values in crunchbot_config.py
+### config values (crunchbot_config.py)
 ```
 BOT_ACCOUNT_NAME
 BOT_PWD
