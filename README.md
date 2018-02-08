@@ -20,7 +20,7 @@ BOT_POSTING_KEY
 AUTHOR_LIST
 ```
 
-### terminal command
+### terminal 
 ```
 python crunchbot_vote.py
 while true; do python crunchbot_vote.py; sleep 60; done
