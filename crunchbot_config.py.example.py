@@ -1,5 +1,5 @@
 # set this to True to view results without actual votes or replies
-RUN_IN_TEST_MODE = False
+RUN_IN_TEST_MODE = True
 
 # the default node from the Python library throws connection errors
 NODE_URI = 'https://api.steemit.com'

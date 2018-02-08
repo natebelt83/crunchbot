@@ -23,4 +23,6 @@ AUTHOR_LIST
 ### terminal command
 ```
 python crunchbot_vote.py
+while true; do python crunchbot_vote.py; sleep 60; done
+pmset noidle
 ```
