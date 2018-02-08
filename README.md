@@ -6,6 +6,12 @@ python3 --version
 pip3 --version
 ```
 
+### environment variables
+```
+export LDFLAGS="-L/usr/local/opt/openssl/lib"
+export CPPFLAGS="-I/usr/local/opt/openssl/include"
+```
+
 ### libraries
 ```
 pip3 install steem
