@@ -2,14 +2,14 @@
 
 ### terminal reqs
 ```
-python --version
-pip --version
+python3 --version
+pip3 --version
 ```
 
 ### libraries
 ```
-pip install steem
-pip install tqdm
+pip3 install steem
+pip3 install tqdm
 ```
 
 ### config values (crunchbot_config.py)
@@ -20,8 +20,8 @@ AUTHOR_LIST
 
 ### terminal 
 ```
-python crunchbot_vote.py
-while true; do python crunchbot_vote.py; sleep 60; done
+python3 crunchbot_vote.py
+while true; do python3 crunchbot_vote.py; sleep 60; done
 pmset noidle
 ```
 
