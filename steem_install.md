@@ -1,7 +1,7 @@
 # steem setup
 
 ### homebrew
-My best guess is that the openssl program is there, but the source files that Steem needs are not. To get those added, we can use another package manager called Homebrew. This is similar to how pip works for python but geared towards the mac operating system.
+My best guess is that the openssl program is there, but the source files that Steem needs are not. To get those added, you can use another package manager called Homebrew. This is similar to how pip works for python but geared towards the mac operating system.
 
 Details are here: https://brew.sh/  I believe you just need to run that main command from the Terminal:
 ```
